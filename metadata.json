@@ -1,8 +1,0 @@
-
-{
-  "name": "SparkleERP - Smart Car Wash POS",
-  "description": "A comprehensive car wash management system featuring POS, vehicle inspection, real-time bay monitoring, and inventory management.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
